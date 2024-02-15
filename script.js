@@ -16,7 +16,7 @@ var dataTitle;
 var dataEpisode;
 var dataURL;
 
-const apiEndpoint = "animxer-api-streamin1.vercel.app";
+const apiEndpoint = "https://api1.anime-dex.workers.dev";
 
 // Randomly set player iframes to these video onLoad
 var youtubeLinks = [
